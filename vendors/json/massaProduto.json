@@ -1,0 +1,33 @@
+ [
+
+    {
+        "nome": "Mouse_S ergonomicos",
+        "preco": 500,
+        "descricao": "Mouses",
+        "quantidade": 100
+    },
+    {
+        "nome": "Teclado Coloridos",
+        "preco": 200,
+        "descricao": "Teclados",
+        "quantidade": 90
+    },
+    {
+        "nome": "Adaptador HDMIs",
+        "preco": 350,
+        "descricao": "HDMIs",
+        "quantidade": 10
+    },
+    {
+        "nome": "Monitor 17s",
+        "preco": 1500,
+        "descricao": "Monitors",
+        "quantidade": 30
+    },
+    {
+        "nome": "Fones sem Fios",
+        "preco": 70,
+        "descricao": "Foness",
+        "quantidade": 50
+    }
+]
